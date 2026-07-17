@@ -231,7 +231,7 @@ IContactRepository
 
 ## Автор
 
-Backend Developer
+Романов Клим
 
 Стек:
 - C#
