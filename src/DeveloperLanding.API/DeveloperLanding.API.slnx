@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../DeveloperLandingApi.Application/DeveloperLandingApi.Application.csproj" />
+  <Project Path="../DeveloperLandingApi.Domain/DeveloperLandingApi.Domain.csproj" />
+  <Project Path="../DeveloperLandingApi.Infrastructure/DeveloperLandingApi.Infrastructure.csproj" />
+  <Project Path="DeveloperLanding.API.csproj" />
+</Solution>

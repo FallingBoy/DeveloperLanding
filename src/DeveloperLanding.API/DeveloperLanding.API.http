@@ -1,0 +1,6 @@
+@DeveloperLanding.API_HostAddress = http://localhost:5047
+
+GET {{DeveloperLanding.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
